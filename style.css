@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ff135d 0%, #66d9ff 100%);
+    width: 100%;
+    height: 100%;
+}
+h1 {
+    font-weight: bold;
+    font-variant-caps: small-caps;
+}
+h2 {
+   font-weight: 500; 
+}
+p {
+    font-family: cursive;
+    font-weight: bold;
+}
+
